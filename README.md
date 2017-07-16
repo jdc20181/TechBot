@@ -15,3 +15,5 @@ Some important things:
 - The bot will cite a brief few things along with a Verified source of information. 
 
 - The bot is not smart. (yet?)
+
+- The bot is currently a work in progress
